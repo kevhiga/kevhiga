@@ -1,8 +1,8 @@
 My name is Kevin Higashihara.
 
-I'm an aspiring data analyst. 
+I'm an aspiring data analyst with experiences in data wrangling, data analysis, and data visualization.
 
-Learning Python (i.e. pandas, numpy, seaborn, matplotlib, scikit, beautifulsoup), MySQL, and Tableau.
+I use SQL, Python, and Tableau for my data projects.
 
 Reach me at higashihara.kevin@gmail.com.
 
