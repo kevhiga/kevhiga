@@ -2,7 +2,7 @@ My name is Kevin Higashihara.
 
 I'm an aspiring data analyst with experiences in data wrangling, data analysis, and data visualization.
 
-I use SQL, Python, and Tableau for my data projects.
+I use SQL, Python, and BI tools like IBM Cognos for my data projects.
 
 Reach me at higashihara.kevin@gmail.com.
 
